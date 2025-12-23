@@ -1,0 +1,5 @@
+{
+  "name": "La Roue des Jeux",
+  "description": "Une application interactive et fun pour choisir à quel jeu de société jouer ce soir. Faites tourner la roue et laissez le destin décider !",
+  "requestFramePermissions": []
+}
